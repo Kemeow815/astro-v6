@@ -91,8 +91,8 @@ importers:
         version: 3.1.0(react@18.3.1)
     devDependencies:
       '@iconify-json/fa6-brands':
-        specifier: ^1.2.3
-        version: 1.2.3
+        specifier: ^1.2.5
+        version: 1.2.5
       '@iconify-json/fa6-regular':
         specifier: ^1.2.2
         version: 1.2.2
@@ -889,8 +889,8 @@ packages:
       '@fortawesome/fontawesome-svg-core': ~1 || ~6
       react: '>=16.3'
 
-  '@iconify-json/fa6-brands@1.2.3':
-    resolution: {integrity: sha512-vwdbeIpy9BgGonD6dwMIoZnzn/xo3w/mn1A+YcNxo42xTmVJeX2oobGlXlbN9P4BNi879dK9xvOjZpj7hYV2mg==}
+  '@iconify-json/fa6-brands@1.2.5':
+    resolution: {integrity: sha512-U/iFfziz6jSN9zArOJZYTtoj2tQyh6MxPdI8M84DQ2kEulPaj8j+h9bqvjmzszNHmD7v+kmmKd/MLkMKk+3Zuw==}
 
   '@iconify-json/fa6-regular@1.2.2':
     resolution: {integrity: sha512-AAlD3Xgk15TbJuHyyaYU4cT21V0H98RgvWZDidf6XZCur+FQgANqlY6bV1jdVHHcSyVhm8px9LadgCxk6Ixaqg==}
@@ -4494,7 +4494,7 @@ snapshots:
       prop-types: 15.8.1
       react: 18.3.1
 
-  '@iconify-json/fa6-brands@1.2.3':
+  '@iconify-json/fa6-brands@1.2.5':
     dependencies:
       '@iconify/types': 2.0.0
 
